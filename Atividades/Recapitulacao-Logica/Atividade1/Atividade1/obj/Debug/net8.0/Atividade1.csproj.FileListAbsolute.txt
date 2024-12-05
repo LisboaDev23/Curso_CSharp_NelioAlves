@@ -1,0 +1,15 @@
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\bin\Debug\net8.0\Atividade1.exe
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\bin\Debug\net8.0\Atividade1.deps.json
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\bin\Debug\net8.0\Atividade1.runtimeconfig.json
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\bin\Debug\net8.0\Atividade1.dll
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\bin\Debug\net8.0\Atividade1.pdb
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.AssemblyInfoInputs.cache
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.AssemblyInfo.cs
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.sourcelink.json
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.dll
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\refint\Atividade1.dll
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.pdb
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\Atividade1.genruntimeconfig.cache
+C:\Curso-CSharp-Udemy\Atividades\Recapitulacao-Logica\Atividade1\Atividade1\obj\Debug\net8.0\ref\Atividade1.dll
