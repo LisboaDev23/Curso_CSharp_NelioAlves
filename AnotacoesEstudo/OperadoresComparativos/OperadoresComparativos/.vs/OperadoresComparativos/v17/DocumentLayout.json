@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Curso_CSharp\\Curso_CSharp_NelioAlves\\AnotacoesEstudo\\OperadoresComparativos\\OperadoresComparativos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977ED666-AE87-45C2-A1EE-E53EB4C1E2F2}|OperadoresComparativos\\OperadoresComparativos.csproj|c:\\users\\gabri\\curso_csharp\\curso_csharp_nelioalves\\anotacoesestudo\\operadorescomparativos\\operadorescomparativos\\operadorescomparativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977ED666-AE87-45C2-A1EE-E53EB4C1E2F2}|OperadoresComparativos\\OperadoresComparativos.csproj|solutionrelative:operadorescomparativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977ED666-AE87-45C2-A1EE-E53EB4C1E2F2}|OperadoresComparativos\\OperadoresComparativos.csproj|c:\\users\\gabri\\curso_csharp\\curso_csharp_nelioalves\\anotacoesestudo\\operadorescomparativos\\operadorescomparativos\\operadorescomparativos\\outrosoperadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977ED666-AE87-45C2-A1EE-E53EB4C1E2F2}|OperadoresComparativos\\OperadoresComparativos.csproj|solutionrelative:operadorescomparativos\\outrosoperadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Curso_CSharp\\Curso_CSharp_NelioAlves\\AnotacoesEstudo\\OperadoresComparativos\\OperadoresComparativos\\OperadoresComparativos\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresComparativos\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Curso_CSharp\\Curso_CSharp_NelioAlves\\AnotacoesEstudo\\OperadoresComparativos\\OperadoresComparativos\\OperadoresComparativos\\Program.cs",
+              "RelativeToolTip": "OperadoresComparativos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:36:28.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutrosOperadores.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Curso_CSharp\\Curso_CSharp_NelioAlves\\AnotacoesEstudo\\OperadoresComparativos\\OperadoresComparativos\\OperadoresComparativos\\OutrosOperadores.cs",
+              "RelativeDocumentMoniker": "OperadoresComparativos\\OutrosOperadores.cs",
+              "ToolTip": "C:\\Users\\gabri\\Curso_CSharp\\Curso_CSharp_NelioAlves\\AnotacoesEstudo\\OperadoresComparativos\\OperadoresComparativos\\OperadoresComparativos\\OutrosOperadores.cs",
+              "RelativeToolTip": "OperadoresComparativos\\OutrosOperadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:31:06.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
