@@ -1,0 +1,15 @@
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\bin\Debug\net8.0\ObjectAndToString.exe
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\bin\Debug\net8.0\ObjectAndToString.deps.json
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\bin\Debug\net8.0\ObjectAndToString.runtimeconfig.json
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\bin\Debug\net8.0\ObjectAndToString.dll
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\bin\Debug\net8.0\ObjectAndToString.pdb
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.AssemblyInfoInputs.cache
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.AssemblyInfo.cs
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.sourcelink.json
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.dll
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\refint\ObjectAndToString.dll
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.pdb
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ObjectAndToString.genruntimeconfig.cache
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\AnotacoesEstudo\ObjectAndToString\ObjectAndToString\ObjectAndToString\obj\Debug\net8.0\ref\ObjectAndToString.dll
