@@ -1,0 +1,15 @@
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\bin\Debug\net8.0\AtvPoo.exe
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\bin\Debug\net8.0\AtvPoo.deps.json
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\bin\Debug\net8.0\AtvPoo.runtimeconfig.json
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\bin\Debug\net8.0\AtvPoo.dll
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\bin\Debug\net8.0\AtvPoo.pdb
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.AssemblyInfoInputs.cache
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.AssemblyInfo.cs
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.sourcelink.json
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.dll
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\refint\AtvPoo.dll
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.pdb
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\AtvPoo.genruntimeconfig.cache
+C:\Users\gabri\Curso_CSharp\Curso_CSharp_NelioAlves\Atividades\Recapitulacao-Logica\Atividade3\AtvPoo\AtvPoo\obj\Debug\net8.0\ref\AtvPoo.dll
