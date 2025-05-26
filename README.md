@@ -9,3 +9,12 @@
 * Operadores Comparativos
 * Operadores Lógicos
 * Introdução aos objetos (Classes, propriedades-atributos, métodos)
+
+2 - CLASSES, ATRIBUTOS, MÉTODOS E MEMBROS ESTÁTICOS
+* Classes
+* Atributos
+* Métodos
+* Classe Object
+* ToString
+* Funções Math
+* Membros Estáticos
