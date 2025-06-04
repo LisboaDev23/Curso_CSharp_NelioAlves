@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso-CSharp-Udemy\\Atividades\\Classes, métodos\\Atividade 2\\Atividade2\\Atividade2\\Atividade2.csproj",
-      "projectName": "Atividade2",
-      "projectPath": "C:\\Curso-CSharp-Udemy\\Atividades\\Classes, métodos\\Atividade 2\\Atividade2\\Atividade2\\Atividade2.csproj",
+      "projectUniqueName": "C:\\Curso-CSharp-Udemy\\Atividades\\Classes, métodos\\Atividade4\\Atividade4\\Atividade4\\Atividade4.csproj",
+      "projectName": "Atividade4",
+      "projectPath": "C:\\Curso-CSharp-Udemy\\Atividades\\Classes, métodos\\Atividade4\\Atividade4\\Atividade4\\Atividade4.csproj",
       "packagesPath": "C:\\Users\\139490\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso-CSharp-Udemy\\Atividades\\Classes, métodos\\Atividade 2\\Atividade2\\Atividade2\\obj\\",
+      "outputPath": "C:\\Curso-CSharp-Udemy\\Atividades\\Classes, métodos\\Atividade4\\Atividade4\\Atividade4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,18 @@
+Funções aprendidas na aula de operadores aritméticos
+
+1 - Math.Pow(valor); --> Função para calcular a potência de um número!
+
+2 - Math.Sqrt(valor); --> Função para calcular a raiz quadrada de um número!
+
+
+Funções aprendidas na aula de entrada de dados
+
+1 - Console.ReadLine(); --> Ele exige uma entrada de dado do usuário através do console!
+
+2 - Split(' '); //método nativo de string
+	string s = Console.ReadLine();
+	string[] vetor = s.Split(' ');
+
+--- Ele irá pegar o conteúdo da variável s, e a cada espaço que for dado na entrada de dado,
+ele irá armazenar os valores em num determinado array de strings ---
+
